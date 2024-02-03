@@ -51,13 +51,7 @@
   "navigation": [
     {
       "group": "Overview",
-      "pages": [
-        "introduction",
-        "how_it_works",
-        "getting_started",
-        "faq",
-        "pricing"
-      ]
+      "pages": ["introduction", "getting_started", "faq", "pricing"]
     },
     {
       "group": "Examples",
